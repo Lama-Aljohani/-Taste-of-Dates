@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\laljo\\source\\repos\\ProjectFinalweb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B91EBFBC-BC31-488F-8435-910DCA22E8D4}|ProjectFinalweb\\ProjectFinalweb.csproj|c:\\users\\laljo\\source\\repos\\projectfinalweb\\projectfinalweb\\benefitdates.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B91EBFBC-BC31-488F-8435-910DCA22E8D4}|ProjectFinalweb\\ProjectFinalweb.csproj|solutionrelative:projectfinalweb\\benefitdates.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B91EBFBC-BC31-488F-8435-910DCA22E8D4}|ProjectFinalweb\\ProjectFinalweb.csproj|C:\\Users\\laljo\\source\\repos\\ProjectFinalweb\\projectfinalweb\\benefitdates.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B91EBFBC-BC31-488F-8435-910DCA22E8D4}|ProjectFinalweb\\ProjectFinalweb.csproj|solutionrelative:projectfinalweb\\benefitdates.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B91EBFBC-BC31-488F-8435-910DCA22E8D4}|ProjectFinalweb\\ProjectFinalweb.csproj|C:\\Users\\laljo\\source\\repos\\ProjectFinalweb\\projectfinalweb\\benefitdates.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B91EBFBC-BC31-488F-8435-910DCA22E8D4}|ProjectFinalweb\\ProjectFinalweb.csproj|solutionrelative:projectfinalweb\\benefitdates.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B91EBFBC-BC31-488F-8435-910DCA22E8D4}|ProjectFinalweb\\ProjectFinalweb.csproj|C:\\Users\\laljo\\source\\repos\\ProjectFinalweb\\projectfinalweb\\confirmation.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B91EBFBC-BC31-488F-8435-910DCA22E8D4}|ProjectFinalweb\\ProjectFinalweb.csproj|solutionrelative:projectfinalweb\\confirmation.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B91EBFBC-BC31-488F-8435-910DCA22E8D4}|ProjectFinalweb\\ProjectFinalweb.csproj|C:\\Users\\laljo\\source\\repos\\ProjectFinalweb\\projectfinalweb\\typesdates.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B91EBFBC-BC31-488F-8435-910DCA22E8D4}|ProjectFinalweb\\ProjectFinalweb.csproj|solutionrelative:projectfinalweb\\typesdates.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B91EBFBC-BC31-488F-8435-910DCA22E8D4}|ProjectFinalweb\\ProjectFinalweb.csproj|C:\\Users\\laljo\\source\\repos\\ProjectFinalweb\\projectfinalweb\\typesdates.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B91EBFBC-BC31-488F-8435-910DCA22E8D4}|ProjectFinalweb\\ProjectFinalweb.csproj|solutionrelative:projectfinalweb\\typesdates.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B91EBFBC-BC31-488F-8435-910DCA22E8D4}|ProjectFinalweb\\ProjectFinalweb.csproj|C:\\Users\\laljo\\source\\repos\\ProjectFinalweb\\projectfinalweb\\homepage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B91EBFBC-BC31-488F-8435-910DCA22E8D4}|ProjectFinalweb\\ProjectFinalweb.csproj|solutionrelative:projectfinalweb\\homepage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B91EBFBC-BC31-488F-8435-910DCA22E8D4}|ProjectFinalweb\\ProjectFinalweb.csproj|C:\\Users\\laljo\\source\\repos\\ProjectFinalweb\\projectfinalweb\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B91EBFBC-BC31-488F-8435-910DCA22E8D4}|ProjectFinalweb\\ProjectFinalweb.csproj|solutionrelative:projectfinalweb\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B91EBFBC-BC31-488F-8435-910DCA22E8D4}|ProjectFinalweb\\ProjectFinalweb.csproj|C:\\Users\\laljo\\source\\repos\\ProjectFinalweb\\projectfinalweb\\transmitted.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B91EBFBC-BC31-488F-8435-910DCA22E8D4}|ProjectFinalweb\\ProjectFinalweb.csproj|solutionrelative:projectfinalweb\\transmitted.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B91EBFBC-BC31-488F-8435-910DCA22E8D4}|ProjectFinalweb\\ProjectFinalweb.csproj|C:\\Users\\laljo\\source\\repos\\ProjectFinalweb\\projectfinalweb\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B91EBFBC-BC31-488F-8435-910DCA22E8D4}|ProjectFinalweb\\ProjectFinalweb.csproj|solutionrelative:projectfinalweb\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 194,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BenefitDates.aspx",
+              "DocumentMoniker": "C:\\Users\\laljo\\source\\repos\\ProjectFinalweb\\ProjectFinalweb\\BenefitDates.aspx",
+              "RelativeDocumentMoniker": "ProjectFinalweb\\BenefitDates.aspx",
+              "ToolTip": "C:\\Users\\laljo\\source\\repos\\ProjectFinalweb\\ProjectFinalweb\\BenefitDates.aspx",
+              "RelativeToolTip": "ProjectFinalweb\\BenefitDates.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-09T03:39:47.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BenefitDates.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\laljo\\source\\repos\\ProjectFinalweb\\ProjectFinalweb\\BenefitDates.aspx.cs",
+              "RelativeDocumentMoniker": "ProjectFinalweb\\BenefitDates.aspx.cs",
+              "ToolTip": "C:\\Users\\laljo\\source\\repos\\ProjectFinalweb\\ProjectFinalweb\\BenefitDates.aspx.cs",
+              "RelativeToolTip": "ProjectFinalweb\\BenefitDates.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T03:49:50.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BenefitDates.css",
+              "DocumentMoniker": "C:\\Users\\laljo\\source\\repos\\ProjectFinalweb\\ProjectFinalweb\\BenefitDates.css",
+              "RelativeDocumentMoniker": "ProjectFinalweb\\BenefitDates.css",
+              "ToolTip": "C:\\Users\\laljo\\source\\repos\\ProjectFinalweb\\ProjectFinalweb\\BenefitDates.css",
+              "RelativeToolTip": "ProjectFinalweb\\BenefitDates.css",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-09T03:41:06.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Homepage.css",
+              "DocumentMoniker": "C:\\Users\\laljo\\source\\repos\\ProjectFinalweb\\ProjectFinalweb\\Homepage.css",
+              "RelativeDocumentMoniker": "ProjectFinalweb\\Homepage.css",
+              "ToolTip": "C:\\Users\\laljo\\source\\repos\\ProjectFinalweb\\ProjectFinalweb\\Homepage.css",
+              "RelativeToolTip": "ProjectFinalweb\\Homepage.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-08T17:32:56.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "confirmation.aspx",
+              "DocumentMoniker": "C:\\Users\\laljo\\source\\repos\\ProjectFinalweb\\ProjectFinalweb\\confirmation.aspx",
+              "RelativeDocumentMoniker": "ProjectFinalweb\\confirmation.aspx",
+              "ToolTip": "C:\\Users\\laljo\\source\\repos\\ProjectFinalweb\\ProjectFinalweb\\confirmation.aspx",
+              "RelativeToolTip": "ProjectFinalweb\\confirmation.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-07T21:35:45.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Typesdates.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\laljo\\source\\repos\\ProjectFinalweb\\ProjectFinalweb\\Typesdates.aspx.cs",
+              "RelativeDocumentMoniker": "ProjectFinalweb\\Typesdates.aspx.cs",
+              "ToolTip": "C:\\Users\\laljo\\source\\repos\\ProjectFinalweb\\ProjectFinalweb\\Typesdates.aspx.cs",
+              "RelativeToolTip": "ProjectFinalweb\\Typesdates.aspx.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T21:35:36.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Typesdates.aspx",
+              "DocumentMoniker": "C:\\Users\\laljo\\source\\repos\\ProjectFinalweb\\ProjectFinalweb\\Typesdates.aspx",
+              "RelativeDocumentMoniker": "ProjectFinalweb\\Typesdates.aspx",
+              "ToolTip": "C:\\Users\\laljo\\source\\repos\\ProjectFinalweb\\ProjectFinalweb\\Typesdates.aspx",
+              "RelativeToolTip": "ProjectFinalweb\\Typesdates.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-07T21:33:52.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "transmitted.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\laljo\\source\\repos\\ProjectFinalweb\\ProjectFinalweb\\transmitted.aspx.cs",
+              "RelativeDocumentMoniker": "ProjectFinalweb\\transmitted.aspx.cs",
+              "ToolTip": "C:\\Users\\laljo\\source\\repos\\ProjectFinalweb\\ProjectFinalweb\\transmitted.aspx.cs",
+              "RelativeToolTip": "ProjectFinalweb\\transmitted.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T21:33:25.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\laljo\\source\\repos\\ProjectFinalweb\\ProjectFinalweb\\Login.aspx",
+              "RelativeDocumentMoniker": "ProjectFinalweb\\Login.aspx",
+              "ToolTip": "C:\\Users\\laljo\\source\\repos\\ProjectFinalweb\\ProjectFinalweb\\Login.aspx",
+              "RelativeToolTip": "ProjectFinalweb\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-07T18:23:19.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Homepage.aspx",
+              "DocumentMoniker": "C:\\Users\\laljo\\source\\repos\\ProjectFinalweb\\ProjectFinalweb\\Homepage.aspx",
+              "RelativeDocumentMoniker": "ProjectFinalweb\\Homepage.aspx",
+              "ToolTip": "C:\\Users\\laljo\\source\\repos\\ProjectFinalweb\\ProjectFinalweb\\Homepage.aspx",
+              "RelativeToolTip": "ProjectFinalweb\\Homepage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-06T22:43:51.862Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
